@@ -2,5 +2,14 @@ body{
     margin-left: 20%;
     margin-right: 20%;
     background-color: aliceblue;
-
+   
+}
+h1{
+    font-weight: normal;
+    border-bottom: 1px solid grey;
+}
+h2{
+    font-weight: normal;
+    margin-bottom: 30px;
+    font-size: 26px;
 }
